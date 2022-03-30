@@ -1,13 +1,13 @@
 # Site settings
-title: RaydenX Personal Website
+title: Data Product
 SEOTitle: “锐意进取，人生本色” - Orbis Non Sufficit 
-header-img: img/post-bg-desk.jpg
+header-img: 010374_1.jpeg
 email: rexanderxu@gmail.com
 description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "Data analytics, Data Visualization, , 三叶草国际语, 三叶语"
+keyword: "Data analytics, Data Visualization "
 url: "https://rayden-xu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/rayden-xu/rayden-xu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
